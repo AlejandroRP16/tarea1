@@ -7,17 +7,17 @@
             "Precio":"30.00"
         },
         {
-            "Id":1,
+            "Id":2,
             "Descripcion":"Teclado",
             "Precio":"90.00"
         },
         {
-            "Id":1,
+            "Id":3,
             "Descripcion":"Pantalla",
             "Precio":"150.00"
         },
         {
-            "Id":1,
+            "Id":4,
             "Descripcion":"USB",
             "Precio":"10.00"
         }
